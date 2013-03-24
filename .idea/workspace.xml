@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dfd1fde-d1f8-413c-903a-6e493f3167e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/energies/index.html.erb" afterPath="$PROJECT_DIR$/app/views/energies/index.html.erb" />
     </list>
     <ignored path="Quantified_Self.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/20130324013142_create_energies.rb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364088760056" ignored="false" />
-    <file path="/index.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364105252895" ignored="false" />
+    <file path="/index.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364108175849" ignored="false" />
     <file path="/Dummy.txt" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364105414829" ignored="false" />
     <file path="/new.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364095800289" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-project/app/views/energies/index.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364107828113" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/energies/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="73" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.49167928">
+            <state line="59" column="66" selection-start="1814" selection-end="1814" vertical-scroll-proportion="0.7579425">
               <folding />
             </state>
           </provider>
@@ -603,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/energies/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="73" selection-start="2074" selection-end="2074" vertical-scroll-proportion="0.49167928">
+        <state line="59" column="66" selection-start="1814" selection-end="1814" vertical-scroll-proportion="0.7579425">
           <folding />
         </state>
       </provider>
