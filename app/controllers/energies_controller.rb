@@ -1,13 +1,7 @@
 class EnergiesController < ApplicationController
-  # GET /energies
-  # GET /energies.json
+  helper_method :sort_column, :sort_direction
   def index
-    @energies = Energy.all
-
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @energies }
-    end
+    @energies = Energy.order(sort_column + " " + sort_direction)
   end
 
   # GET /energies/1
@@ -79,5 +73,15 @@ class EnergiesController < ApplicationController
       format.html { redirect_to energies_url }
       format.json { head :no_content }
     end
+  end
+
+  private
+
+  def sort_column
+    params[:sort] || "created_at"
+  end
+
+  def sort_direction
+    params[:direction] || "asc"
   end
 end
