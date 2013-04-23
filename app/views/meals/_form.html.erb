@@ -1,0 +1,10 @@
+<%= form_for @meal do |f| %>
+    <%= f.check_box :breakfast %>
+    <%= f.check_box :lunch %>
+    <%= f.check_box :dinner %>
+
+    <%= f.text_area :notes %>
+    <div class="form-actions">
+      <%= f.submit "Create Post" %>
+    </div>
+<% end %>

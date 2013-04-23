@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  breakfast: false
+  lunch: false
+  dinner: false
+
+two:
+  breakfast: false
+  lunch: false
+  dinner: false

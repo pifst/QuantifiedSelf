@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dfd1fde-d1f8-413c-903a-6e493f3167e2" name="Default" comment="4/23, readme&#10;">
+    <list default="true" id="7dfd1fde-d1f8-413c-903a-6e493f3167e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Quantified_Self.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/20130324013142_create_energies.rb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364088760056" ignored="false" />
     <file path="/index.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1366628306168" ignored="false" />
-    <file path="/Dummy.txt" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1366735409653" ignored="false" />
+    <file path="/Dummy.txt" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1366735417338" ignored="false" />
     <file path="/new.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364227089894" ignored="false" />
     <file path="$PROJECT_DIR$/../data-project/app/views/energies/index.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364107828113" ignored="false" />
     <file path="/_form.html.erb" changelist="7dfd1fde-d1f8-413c-903a-6e493f3167e2" time="1364586626869" ignored="false" />
@@ -684,7 +684,11 @@
       <created>1366735343231</created>
       <updated>1366735343231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4/23, readme&#10;">
+      <created>1366735420049</created>
+      <updated>1366735420049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
