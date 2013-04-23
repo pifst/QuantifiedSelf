@@ -1,0 +1,9 @@
+Personal project created while at SIB people to track health metrics, find trends, and share with family & healthcare provider.
+
+TO DO:
+1.Google oAuth
+2.Change production datastore from SQLite3, to Google Document spreadsheet - privilages from Google oAuth.  This is give user full ownership of data.
+3.Create an export option that will generate a pdf report for sharing with healthcare provider or family.
+4.Give user the ability to add/remove metrics
+5.Define models so each metric is recorded in sequence.  This way when user enters data for one metric (ex. meals), user would then advance to next metric (ex. energy), until completion of metrics.
+6.Add twillo support (sms), to remind users to enter data on a daily basis.
