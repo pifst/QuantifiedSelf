@@ -8,7 +8,24 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+<div class="container">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
 
+      <div class="nav-collapse">
+        <ul class="nav">
+          <li class="active"><a href="#">Quantified Self</a></li>
+          <li><%= link_to 'Meals', meals_path %></li>
+          <li><%= link_to 'Energy', energies_path %></li>
+          <li><%= link_to 'Pain', "#{energies_path}" %></li>
+          <li><%= link_to 'Medicine', "#{energies_path}" %></li>
+          <li><%= link_to 'Quotes', "#{quotes_path}" %></li>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div><!-- container -->
+  </div><!-- navbar-inner -->
+</div><!--  navbar navbar-fixed-top -->
 <%= yield %>
 
 </body>

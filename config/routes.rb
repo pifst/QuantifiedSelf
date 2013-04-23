@@ -1,4 +1,10 @@
 QuantifiedSelf::Application.routes.draw do
+  resources :quotes
+
+
+  resources :meals
+
+
   resources :energies
 
 

@@ -1,7 +1,7 @@
 jQuery ->
   Morris.Line
-    element: 'energy_values'
-    data: $('#energy_values').data('energy')
+    element: 'energies_chart'
+    data: $('#energy_values').data('energies')
     xkey: 'y'
     ykeys: ['a']
     labels: ['Series a']
